@@ -44,4 +44,6 @@ LinkedIn Lead Notes is not affiliated with, endorsed by, or sponsored by LinkedI
 
 ## Contact
 
-emrecan.konca@gmail.com
+For privacy-related questions or requests, open an issue in the public GitHub repository:
+
+https://github.com/Kingkong2408/linkedin-lead-notes/issues
